@@ -1,5 +1,5 @@
        IDENTIFICATION                  DIVISION.
-       PROGRAM-ID.MANAGEMENT.
+       PROGRAM-ID.MANAGEMENTB.
       *=================================================================
       *    NAME: NATAN BOANAFINA
       *    ENTERPRISE: N/A
