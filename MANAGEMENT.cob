@@ -9,8 +9,8 @@
       *                       COBOL COURSE.
       *
       *-----------------------------------------------------------------
-      *    EXERCISE PURPOSE: CRUD - STUDENTS NAMES, GRADES, SCORES AND
-      *                      AVERAGE SCORE.
+      *    EXERCISE PURPOSE: CRUD - STUDENTS NAMES, GRADES, SCORES,
+      *                      AVERAGE SCORE AND REPORT.
       *
       *-----------------------------------------------------------------
       *                             FILES
